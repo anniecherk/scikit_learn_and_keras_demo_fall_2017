@@ -1,8 +1,11 @@
-# scikit_learn_and_keras_demo_fall_2017
-An ipython notebook to demonstrate scikit learn &amp; keras; for Machine Learning Fall 2017
+# scikit-learn and Keras demo (Fall 2017, Machine Learning @ University of Utah)
+
+This repo contains two ipython notebooks which demonstrate how to use some features of scikit-learn &amp; Keras.
 
 ## Step 1: Make sure you have python3 installed
-Python2's end of life is in 2020. Python3 is really similar, but it will be maintained in the future.
+Python2's end of life is in 2020. Python3 is really similar, but it will be maintained in the future, and it's really easy to install.
+
+Instructions here: https://www.python.org/downloads/
 
 ## Step 2: Grab this repo
 ```
@@ -13,7 +16,7 @@ cd scikit_learn_and_keras_demo_fall_2017
 ## Step 3: Install some pre-requisite libraries
 `pip3 install -r requirements.txt`
 
-Note: this setup installs the "CPU version" of tensorflow; if you're running some largely model you'll want to use the "GPU version" for much better efficiency. It's a slightly different setup that is outside the scope of this demo, but just something to keep in mind.
+Note: this setup installs the "CPU version" of TensorFlow; if you're running some largely model you'll want to use the "GPU version" for much better efficiency. It's a slightly different setup that is outside the scope of this demo, but just something to keep in mind.
 
 ## Step 4: Run the ipython notebook
 `jupyter notebook`
