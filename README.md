@@ -3,9 +3,8 @@
 This repo contains two ipython notebooks which demonstrate how to use some features of scikit-learn &amp; Keras.
 
 ## Step 1: Make sure you have python3 installed
-Python2's end of life is in 2020. Python3 is really similar, but it will be maintained in the future, and it's really easy to install.
 
-Instructions here: https://www.python.org/downloads/
+Instructions here if you need to grab it: https://www.python.org/downloads/
 
 ## Step 2: Grab this repo
 ```
